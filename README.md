@@ -2,6 +2,12 @@
 
 A simple Java-based e-commerce system that demonstrates object-oriented programming concepts with product management, shopping cart functionality, and checkout processing.
 
+## Screenshot
+
+
+![img1](imgs/image.png)
+
+
 ## Features
 
 - **Product Management**: Support for both expirable and non-expirable products
